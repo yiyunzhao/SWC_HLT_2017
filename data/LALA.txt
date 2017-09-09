@@ -1,0 +1,8 @@
+we are going to push github.
+process
+1)create
+2)pull down using ssh
+3) 
+4)git add files and folders 
+5) git status to look at the stage
+6)git commit
