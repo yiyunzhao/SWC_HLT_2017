@@ -5,5 +5,5 @@ SWC repo for HLT linguistics
 1. Bash leession
 2. Git
 *hello
-3. PythonJubiter
+3. PythonJupyter Notebook
 
